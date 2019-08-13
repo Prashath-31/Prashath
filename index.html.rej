@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -41,6 +41,7 @@
+ 									<li><a href="#"><i class="lnr lnr-home"></i> Batticaloa,Srilanka</a></li>
+ 								</ul>
+ 								<ul class="list personal_social">
++									<li><a href="https://www.facebook.com/prasath.devapalan"><i class="fa fa-facebook"></i></a></li>
+ 									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+ 									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+ 								</ul>
